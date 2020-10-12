@@ -2,23 +2,27 @@
 [
 {
 "category_id":"1",
-"category_name":"Milk",
-"category_image":"https://rukminim1.flixcart.com/flap/128/128/image/50474c.jpg?q=100"
+"category_name":"Cooking Essentials",
+"category_image":"https://rukminim1.flixcart.com/flap/128/128/image/50474c.jpg?q=100",
+  "category_slug":"cooking_essentials"
 },
 {
 "category_id":"2",
 "category_name":"Oil",
-"category_image":"https://rukminim1.flixcart.com/flap/128/128/image/50474c.jpg?q=100"
+"category_image":"https://rukminim1.flixcart.com/flap/128/128/image/50474c.jpg?q=100",
+  "category_slug":"oil"
 },
 {
 "category_id":"3",
 "category_name":"Eggs",
-"category_image":"https://rukminim1.flixcart.com/flap/128/128/image/50474c.jpg?q=100"
+"category_image":"https://rukminim1.flixcart.com/flap/128/128/image/50474c.jpg?q=100",
+  "category_slug":"eggs"
 },
 {
 "category_id":"4",
 "category_name":"Vegetables",
-"category_image":"https://rukminim1.flixcart.com/flap/128/128/image/50474c.jpg?q=100"
+"category_image":"https://rukminim1.flixcart.com/flap/128/128/image/50474c.jpg?q=100",
+  "category_slug":"vegetables"
 }
 ]
 }
