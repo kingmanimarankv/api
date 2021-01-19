@@ -7,8 +7,8 @@
       "product_category": "milk_products",
       "product_subcategory": "milk_products",
       "product_brand": "Brittania",
-      "product_available": "true",
-      "product_hasvariants":"true",
+      "product_available": true,
+      "product_hasvariants":true,
       "variants": [
         {
           "variant_id": "1",
@@ -33,8 +33,8 @@
       "product_category": "milk_products",
       "product_subcategory": "milk_products",
       "product_brand": "Brittania",
-      "product_available": "true",
-      "product_hasvariants":"true",
+      "product_available": true,
+      "product_hasvariants":true,
       "variants": [
         {
           "variant_id": "1",
@@ -59,8 +59,8 @@
       "product_category": "milk_products",
       "product_subcategory": "milk_products",
       "product_brand": "Brittania",
-      "product_available": "true",
-      "product_hasvariants":"true",
+      "product_available": true,
+      "product_hasvariants":true,
       "variants": [
         {
           "variant_id": "1",
