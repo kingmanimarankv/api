@@ -1,7 +1,7 @@
 {
   "results": [
     {
-      "product_id": 1,
+      "product_id": "1",
       "product_name": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
       "product_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg",
       "product_category": "milk_products",
@@ -27,7 +27,7 @@
       "product_minPrice": "999"
     },
     {
-      "product_id": 1,
+      "product_id": "1",
       "product_name": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
       "product_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg",
       "product_category": "milk_products",
@@ -53,7 +53,7 @@
       "product_minPrice": "999"
     },
     {
-      "product_id": 1,
+      "product_id": "1",
       "product_name": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
       "product_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg",
       "product_category": "milk_products",
