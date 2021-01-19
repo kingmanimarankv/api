@@ -4,41 +4,76 @@
       "product_id": "1",
       "product_name": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
       "product_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg",
-      "product_description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
-      "product_actualprice": "100.00",
-      "product_mrpprice": "150",
       "product_category": "milk_products",
-      "product_subcategory": "milk_products"
+      "product_subcategory": "milk_products",
+      "product_brand": "Brittania",
+      "product_available": "true",
+      "variants": [
+        {
+          "variant_id": "1",
+          "variant_name": "200 gms",
+          "variant_MRP": "1000",
+          "variant_price": "999"
+        },
+        {
+          "variant_id": "2",
+          "variant_name": "500 gms",
+          "variant_MRP": "1500",
+          "variant_price": "1999"
+        }
+      ],
+      "product_minMRP": "1000",
+      "product_minPrice": "999"
     },
     {
-      "product_id": "2",
-      "product_name": "Lorem Ipsum",
+      "product_id": "1",
+      "product_name": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
       "product_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg",
-      "product_description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
-      "product_actualprice": "100.00",
-      "product_mrpprice": "150",
       "product_category": "milk_products",
-      "product_subcategory": "milk_products"
+      "product_subcategory": "milk_products",
+      "product_brand": "Brittania",
+      "product_available": "true",
+      "variants": [
+        {
+          "variant_id": "1",
+          "variant_name": "200 gms",
+          "variant_MRP": "1000",
+          "variant_price": "999"
+        },
+        {
+          "variant_id": "2",
+          "variant_name": "500 gms",
+          "variant_MRP": "1500",
+          "variant_price": "1999"
+        }
+      ],
+      "product_minMRP": "1000",
+      "product_minPrice": "999"
     },
     {
-      "product_id": "3",
-      "product_name": "Lorem Ipsum",
+      "product_id": "1",
+      "product_name": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
       "product_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg",
-      "product_description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
-      "product_actualprice": "100.00",
-      "product_mrpprice": "150",
       "product_category": "milk_products",
-      "product_subcategory": "milk_products"
-    },
-    {
-      "product_id": "4",
-      "product_name": "Lorem Ipsum",
-      "product_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg",
-      "product_description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
-      "product_actualprice": "100.00",
-      "product_mrpprice": "150",
-      "product_category": "milk_products",
-      "product_subcategory": "milk_products"
+      "product_subcategory": "milk_products",
+      "product_brand": "Brittania",
+      "product_available": "true",
+      "variants": [
+        {
+          "variant_id": "1",
+          "variant_name": "200 gms",
+          "variant_MRP": "1000",
+          "variant_price": "999"
+        },
+        {
+          "variant_id": "2",
+          "variant_name": "500 gms",
+          "variant_MRP": "1500",
+          "variant_price": "1999"
+        }
+      ],
+      "product_minMRP": "1000",
+      "product_minPrice": "999"
     }
   ]
 }
