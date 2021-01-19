@@ -1,7 +1,7 @@
 {
   "results": [
     {
-      "product_id": "1",
+      "product_id": 1,
       "product_name": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
       "product_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg",
       "product_category": "milk_products",
@@ -11,13 +11,13 @@
       "product_hasvariants":true,
       "variants": [
         {
-          "variant_id": "1",
+          "variant_id": 1,
           "variant_name": "200 gms",
           "variant_MRP": "1000",
           "variant_price": "999"
         },
         {
-          "variant_id": "2",
+          "variant_id": 2,
           "variant_name": "500 gms",
           "variant_MRP": "1500",
           "variant_price": "1999"
@@ -27,7 +27,7 @@
       "product_minPrice": "999"
     },
     {
-      "product_id": "1",
+      "product_id": 1,
       "product_name": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
       "product_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg",
       "product_category": "milk_products",
@@ -37,13 +37,13 @@
       "product_hasvariants":true,
       "variants": [
         {
-          "variant_id": "1",
+          "variant_id": 1,
           "variant_name": "200 gms",
           "variant_MRP": "1000",
           "variant_price": "999"
         },
         {
-          "variant_id": "2",
+          "variant_id": 2,
           "variant_name": "500 gms",
           "variant_MRP": "1500",
           "variant_price": "1999"
@@ -53,7 +53,7 @@
       "product_minPrice": "999"
     },
     {
-      "product_id": "1",
+      "product_id":1,
       "product_name": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
       "product_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg",
       "product_category": "milk_products",
@@ -63,13 +63,13 @@
       "product_hasvariants":true,
       "variants": [
         {
-          "variant_id": "1",
+          "variant_id": 1,
           "variant_name": "200 gms",
           "variant_MRP": "1000",
           "variant_price": "999"
         },
         {
-          "variant_id": "2",
+          "variant_id": 2,
           "variant_name": "500 gms",
           "variant_MRP": "1500",
           "variant_price": "1999"
