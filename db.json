@@ -1,82 +1,28 @@
 {
   "results": [
     {
-      "product_id": 1,
-      "product_name": "Assaaaaa",
-      "product_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg",
-      "product_category": "milk_products",
-      "product_subcategory": "milk_products",
-      "product_brand": "Brittania",
-      "product_available": true,
-      "product_hasvariants":true,
-      "variants": [
-        {
-          "variant_id": 1,
-          "variant_name": "200 gms",
-          "variant_MRP": "1000",
-          "variant_price": "999"
-        },
-        {
-          "variant_id": 2,
-          "variant_name": "500 gms",
-          "variant_MRP": "1500",
-          "variant_price": "1999"
-        }
-      ],
-      "product_minMRP": "1000",
-      "product_minPrice": "999"
+      "class_id":1,
+      "class_name":"ECE-A"
     },
     {
-      "product_id": 1,
-      "product_name": "qwqqwq",
-      "product_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg",
-      "product_category": "milk_products",
-      "product_subcategory": "milk_products",
-      "product_brand": "Brittania",
-      "product_available": true,
-      "product_hasvariants":true,
-      "variants": [
-        {
-          "variant_id": 1,
-          "variant_name": "200 gms",
-          "variant_MRP": "1000",
-          "variant_price": "999"
-        },
-        {
-          "variant_id": 2,
-          "variant_name": "500 gms",
-          "variant_MRP": "1500",
-          "variant_price": "1999"
-        }
-      ],
-      "product_minMRP": "1000",
-      "product_minPrice": "999"
+      "class_id":2,
+      "class_name":"ECE-B"
     },
     {
-      "product_id":1,
-      "product_name": "fdfsdsds",
-      "product_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg",
-      "product_category": "milk_products",
-      "product_subcategory": "milk_products",
-      "product_brand": "Brittania",
-      "product_available": true,
-      "product_hasvariants":true,
-      "variants": [
-        {
-          "variant_id": 1,
-          "variant_name": "200 gms",
-          "variant_MRP": "1000",
-          "variant_price": "999"
-        },
-        {
-          "variant_id": 2,
-          "variant_name": "500 gms",
-          "variant_MRP": "1500",
-          "variant_price": "1999"
-        }
-      ],
-      "product_minMRP": "1000",
-      "product_minPrice": "999"
+      "class_id":3,
+      "class_name":"ECE-C"
+    },
+    {
+      "class_id":4,
+      "class_name":"ECE-D"
+    },
+    {
+      "class_id":5,
+      "class_name":"ECE-E"
+    },
+    {
+      "class_id":6,
+      "class_name":"ECE-F"
     }
   ]
 }
