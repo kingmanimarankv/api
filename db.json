@@ -1,27 +1,58 @@
 {
   "results": [
     {
-    "product_name":"Product Name",
-      "product_iamge":"https://qph.fs.quoracdn.net/main-qimg-719b5a33bb4fc7372e708f527cbe3cd3",
-      "variants":[
-        {
-          "variant_name":"200gms",
-          "variant_price":"100"
-        
-        },
-        {
-          "variant_name":"400gms",
-          "variant_price":"200"
-        
-        },
-        {
-          "variant_name":"600gms",
-          "variant_price":"300"
-        
-        }
-      ],
-      "minPrice":"100",
-      "maxPrice":"100"
+      "product_id":1,
+      "product_name": "Product Name 1",
+      "product_image": "https://qph.fs.quoracdn.net/main-qimg-719b5a33bb4fc7372e708f527cbe3cd3",
+      "product_mrp": "100",
+      "product_price": "100",
+      "product_hasvariants":true,
+      "product_available":true
+    },
+    {
+      "product_id":2,
+      "product_name": "Product Name 2",
+      "product_image": "https://qph.fs.quoracdn.net/main-qimg-719b5a33bb4fc7372e708f527cbe3cd3",
+      "product_mrp": "100",
+      "product_price": "100",
+      "product_hasvariants":true,
+      "product_available":true
+    },
+    {
+      "product_id":3,
+      "product_name": "Product Name 3",
+      "product_image": "https://qph.fs.quoracdn.net/main-qimg-719b5a33bb4fc7372e708f527cbe3cd3",
+      "product_mrp": "100",
+      "product_price": "100",
+      "product_hasvariants":true,
+      "product_available":true
+    },
+    {
+      "product_id":4,
+      "product_name": "Product Name 4",
+      "product_image": "https://qph.fs.quoracdn.net/main-qimg-719b5a33bb4fc7372e708f527cbe3cd3",
+      "product_mrp": "100",
+      "product_price": "100",
+      "product_hasvariants":true,
+      "product_available":true
+    },
+    {
+      "product_id":5,
+      "product_name": "Product Name 5",
+      "product_image": "https://qph.fs.quoracdn.net/main-qimg-719b5a33bb4fc7372e708f527cbe3cd3",
+      "product_mrp": "100",
+      "product_price": "100",
+      "product_hasvariants":true,
+      "product_available":true
+    },
+    {
+      "product_id":6,
+      "product_name": "Product Name 6",
+      "product_image": "https://qph.fs.quoracdn.net/main-qimg-719b5a33bb4fc7372e708f527cbe3cd3",
+      "product_mrp": "100",
+      "product_price": "100",
+      "product_hasvariants":true,
+      "product_available":true
     }
   ]
 }
