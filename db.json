@@ -25,7 +25,7 @@
       "product_mrp": "100",
       "product_price": "100",
       "product_hasvariants":true,
-      "product_available":true
+      "product_available":false
     },
     {
       "product_id":4,
