@@ -1,58 +1,16 @@
 {
   "results": [
     {
-      "product_id":1,
-      "product_name": "Product Name 1",
-      "product_image": "https://qph.fs.quoracdn.net/main-qimg-719b5a33bb4fc7372e708f527cbe3cd3",
-      "product_mrp": "100",
-      "product_price": "100",
-      "product_hasvariants":true,
-      "product_available":true
+      "banner_id": 1,
+      "banner_url": "https://www.kalaimagaliasacademy.com/assets/img/banner1.png"
     },
     {
-      "product_id":2,
-      "product_name": "Product Name 2",
-      "product_image": "https://qph.fs.quoracdn.net/main-qimg-719b5a33bb4fc7372e708f527cbe3cd3",
-      "product_mrp": "100",
-      "product_price": "100",
-      "product_hasvariants":true,
-      "product_available":true
+      "banner_id": 2,
+      "banner_url": "https://www.kalaimagaliasacademy.com/assets/img/banner2.png"
     },
     {
-      "product_id":3,
-      "product_name": "Product Name 3",
-      "product_image": "https://qph.fs.quoracdn.net/main-qimg-719b5a33bb4fc7372e708f527cbe3cd3",
-      "product_mrp": "100",
-      "product_price": "100",
-      "product_hasvariants":true,
-      "product_available":false
-    },
-    {
-      "product_id":4,
-      "product_name": "Product Name 4",
-      "product_image": "https://qph.fs.quoracdn.net/main-qimg-719b5a33bb4fc7372e708f527cbe3cd3",
-      "product_mrp": "100",
-      "product_price": "100",
-      "product_hasvariants":true,
-      "product_available":true
-    },
-    {
-      "product_id":5,
-      "product_name": "Product Name 5",
-      "product_image": "https://qph.fs.quoracdn.net/main-qimg-719b5a33bb4fc7372e708f527cbe3cd3",
-      "product_mrp": "100",
-      "product_price": "100",
-      "product_hasvariants":true,
-      "product_available":true
-    },
-    {
-      "product_id":6,
-      "product_name": "Product Name 6",
-      "product_image": "https://qph.fs.quoracdn.net/main-qimg-719b5a33bb4fc7372e708f527cbe3cd3",
-      "product_mrp": "100",
-      "product_price": "100",
-      "product_hasvariants":true,
-      "product_available":true
+      "banner_id": 3,
+      "banner_url": "https://www.kalaimagaliasacademy.com/assets/img/banner3.png"
     }
   ]
 }
